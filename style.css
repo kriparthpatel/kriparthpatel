@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    position: inherit;
+    text-align: center;
+}
+
+#first-text{
+    width: 100%;
+}
